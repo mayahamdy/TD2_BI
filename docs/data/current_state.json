@@ -1,77 +1,17 @@
 {
-  "generated_at": "2026-10-28T20:21:50Z",
-  "network_avg_delay_s": -15.6,
-  "n_routes_reporting": 7,
+  "generated_at": "2026-10-29T00:19:21Z",
+  "network_avg_delay_s": 696.2,
+  "n_routes_reporting": 1,
   "routes": [
     {
       "route_id": "5",
-      "n_trips_observed": 10,
-      "n_stop_updates": 265,
-      "n_skipped": 43,
-      "avg_delay_s": 98.5,
-      "max_delay_s": 898,
-      "snapshot_ts": 1793218910,
-      "route_name": "5"
-    },
-    {
-      "route_id": "B1",
-      "n_trips_observed": 11,
-      "n_stop_updates": 209,
-      "n_skipped": 0,
-      "avg_delay_s": -2.2,
-      "max_delay_s": 220,
-      "snapshot_ts": 1793218910,
-      "route_name": "B1"
-    },
-    {
-      "route_id": "7",
-      "n_trips_observed": 3,
-      "n_stop_updates": 72,
-      "n_skipped": 0,
-      "avg_delay_s": -8.4,
-      "max_delay_s": 170,
-      "snapshot_ts": 1793218910,
-      "route_name": "7"
-    },
-    {
-      "route_id": "C4",
-      "n_trips_observed": 10,
-      "n_stop_updates": 290,
-      "n_skipped": 0,
-      "avg_delay_s": -8.5,
-      "max_delay_s": 166,
-      "snapshot_ts": 1793218910,
-      "route_name": "C4"
-    },
-    {
-      "route_id": "B2",
-      "n_trips_observed": 10,
-      "n_stop_updates": 160,
-      "n_skipped": 0,
-      "avg_delay_s": -30.2,
-      "max_delay_s": 166,
-      "snapshot_ts": 1793218910,
-      "route_name": "B2"
-    },
-    {
-      "route_id": "T3",
-      "n_trips_observed": 12,
-      "n_stop_updates": 168,
-      "n_skipped": 0,
-      "avg_delay_s": -32.3,
-      "max_delay_s": 72,
-      "snapshot_ts": 1793218910,
-      "route_name": "T3"
-    },
-    {
-      "route_id": "22",
       "n_trips_observed": 1,
-      "n_stop_updates": 23,
-      "n_skipped": 0,
-      "avg_delay_s": -126.3,
-      "max_delay_s": -32,
-      "snapshot_ts": 1793218910,
-      "route_name": "22"
+      "n_stop_updates": 27,
+      "n_skipped": 17,
+      "avg_delay_s": 696.2,
+      "max_delay_s": 898,
+      "snapshot_ts": 1793233161,
+      "route_name": "5"
     }
   ],
   "alerts": []
